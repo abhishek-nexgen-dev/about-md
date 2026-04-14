@@ -53,6 +53,7 @@ Website link :- https://apex-circle-website-ten.vercel.app
 
 Github link :- https://github.com/abhishek-nexgen-dev/ResQNex
 
+
 Certificate
 
 1. Gen AI Trainer
@@ -71,7 +72,16 @@ Link: https://drive.google.com/file/d/1DmR51_T6QKQ1RG3l5EQo8ijZmtGkvp80/view?usp
 Link: https://certificate.givemycertificate.com/c/857fe36e-c0db-401a-a140-5269d782018e
 
 
-4. 
+4. Letter of Recommendation from Apex Circle
+- Issued by: Apex Circle
+
+Link: https://www.linkedin.com/posts/abhishek-nexgen-dev_apex-circle-activity-7436714898027372544-GTnr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEA7soUBOaXQx_Ih3HhUiSUwp1Lw26VA42Q
+
+5.  GirlScript Summer of Code 
+- Issued by: GirlScript Foundation
+
+Link: https://www.linkedin.com/posts/abhishek-nexgen-dev_gssoc2025-opensource-girlscript-activity-7395709814053666816-3h2q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEA7soUBOaXQx_Ih3HhUiSUwp1Lw26VA42Q
+
 
 
 
@@ -81,3 +91,4 @@ Social Media Links:
 - GitHub: https://github.com/abhishek-nexgen-dev
 - Youtube: https://www.youtube.com/@NexGenStudioDev
 - Discord: https://discord.gg/smMPvzUveT
+- Dev.to: https://dev.to/abhishek-nexgen-dev
