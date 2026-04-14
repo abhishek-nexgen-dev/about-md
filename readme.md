@@ -114,6 +114,12 @@ I believe in learning by building, collaborating with like-minded developers, an
 - **Issued by:** Postman  
 - 🔗 https://badges.parchment.com/public/assertions/asUCPA73Q4-bsXs4IzovAQ  
 
+
+### 7. Software Development Internship
+- **Issued by:** BRNK Labs
+- 🔗 [Link to Internship Certificate]
+
+
 ---
 
 ## 🌐 Connect With Me
